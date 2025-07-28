@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Meu nome é Luca Felipe, sou um estudante de Análise e Desenvolvimento de Sistemas.</h2>
+<h2 align="left">👋! Meu nome é Luca Felipe, sou um estudante de Análise e Desenvolvimento de Sistemas.</h2>
 
 ###
 
