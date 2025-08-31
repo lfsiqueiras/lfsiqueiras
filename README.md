@@ -118,6 +118,12 @@ Sistema de otimização nutricional para animais de estimação com algoritmos d
 ## 📊 **Estatísticas do GitHub**
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lfsiqueiras&theme=github-compact&bg_color=0d1117&border=61dafb&line=61dafb&point=ffffff" />
+</div>
+
+<br/>
+
+<div align="center">
   <img width="390" height="195" src="https://github-readme-stats.vercel.app/api?username=lfsiqueiras&show_icons=true&theme=dark&border_color=61dafb&border_radius=10" alt="readme stats" />
   <img width="350" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfsiqueiras&layout=compact&theme=dark&border_color=61dafb&border_radius=10" />
 </div>
@@ -126,12 +132,6 @@ Sistema de otimização nutricional para animais de estimação com algoritmos d
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lfsiqueiras&theme=dark&border_radius=10&border=61dafb" alt="readme streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lfsiqueiras&theme=github-compact&bg_color=0d1117&border=61dafb&line=61dafb&point=ffffff" />
 </div>
 
 <br/>
