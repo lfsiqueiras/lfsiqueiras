@@ -136,8 +136,6 @@ Sistema de otimização nutricional para animais de estimação com algoritmos d
 
 <br/>
 
-## 🏆 **Conquistas**
-
 ### � **Projetos Desenvolvidos**
 
 - 🍽️ **Sistema de Gestão para Restaurantes** - Gestão Gourmet
@@ -146,17 +144,6 @@ Sistema de otimização nutricional para animais de estimação com algoritmos d
 - ⚖️ **Sistema de Avaliações de Setores Hospitalares** - Sistema Avaliativo
 
 <br/>
-
-## 🎯 **Fun Facts**
-
-```
-🌱 Atualmente aprendendo: Bootstrap e técnicas avançadas do Laravel
-🤔 Estou procurando ajuda com: Arquitetura de APIs RESTful
-💬 Pergunte-me sobre: PHP, Laravel, HTML, CSS ou qualquer coisa web!
-📫 Como me encontrar: Veja meus links de contato abaixo
-😄 Pronomes: ele/dele
-⚡ Curiosidade: Às vezes me perco tanto programando que esqueço do tempo! ⏰
-```
 
 <br/>
 
