@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋+Eu+sou+Lucas!;Desenvolvedor+Full+Stack;Sempre+aprendendo+🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋+Eu+sou+Lucas!;Sempre+aprendendo+🚀;" />
 
 <h3 align="center">🚀 Apaixonado por tecnologia e sempre em busca de novos desafios!</h3>
 
