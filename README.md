@@ -136,17 +136,6 @@ Sistema de otimização nutricional para animais de estimação com algoritmos d
 
 <br/>
 
-### � **Projetos Desenvolvidos**
-
-- 🍽️ **Sistema de Gestão para Restaurantes** - Gestão Gourmet
-- � **Plataforma Acadêmica Universitária pra Orientação** - Mentor Acadêmico
-- � **Sistema de Otimização Nutricional para Animais** - Pet Balance
-- ⚖️ **Sistema de Avaliações de Setores Hospitalares** - Sistema Avaliativo
-
-<br/>
-
-<br/>
-
 ## 📞 **Contato**
 
 <div align="center">
