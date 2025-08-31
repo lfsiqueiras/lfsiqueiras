@@ -76,20 +76,11 @@
 
 <div align="center">
 
-<a href="https://github.com/ManabeJnchr/Gestao_Gourmet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ManabeJnchr&repo=Gestao_Gourmet&theme=dark&border_color=61dafb&border_radius=10" />
+<a href="https://github.com/lfsiqueiras/Gestao_Gourmet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lfsiqueiras&repo=Gestao_Gourmet&theme=dark&border_color=61dafb&border_radius=10" />
 </a>
 
 </div>
-
-### 🚀 **Principais Projetos**
-
-| Projeto                                                                                        | Descrição                                                                                             | Stack                                                 | Status                |
-| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------- |
-| **[MentorAcademico](https://github.com/ManabeJnchr/MentorAcademico)** ⚠️ _Repositório Privado_ | Sistema de gestão acadêmica para orientação e mentoria universitária com diferentes níveis de usuário | Laravel, PHP, PostgreSQL, Bootstrap, Alpine.js        | 🚧 Em desenvolvimento |
-| **[Gestao_Gourmet](https://github.com/ManabeJnchr/Gestao_Gourmet)**                            | Sistema completo de gerenciamento para restaurantes com controle de pedidos, cardápios e pagamentos   | TypeScript, Express.js, PostgreSQL, Bootstrap         | ✅ Finalizado         |
-| **[Sistema_Avaliativo](https://github.com/ManabeJnchr/Sistema_Avaliativo)**                    | Sistema de avaliação por setores para hospitais e instituições de saúde com interface web responsiva  | Java, JSP, MySQL, Bootstrap, Apache Tomcat            | ✅ Finalizado         |
-| **[Pet_Balance](https://github.com/ManabeJnchr/Pet_Balance)**                                  | Sistema de otimização nutricional para pets com algoritmos de programação linear                      | Alpine.js, Node.js, Express.js, JavaScript, Bootstrap | ✅ Finalizado         |
 
 ### 📋 **Detalhes dos Projetos**
 
@@ -152,10 +143,6 @@ Sistema de otimização nutricional para animais de estimação com algoritmos d
 <br/>
 
 ## 🏆 **Conquistas**
-
-### 🥈 **Competições**
-
-- � **2º Lugar - Maratona de Programação** - FATEC Ourinhos (2023)
 
 ### � **Projetos Desenvolvidos**
 
