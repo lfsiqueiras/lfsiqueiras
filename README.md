@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ManabeJnchr.ManabeJnchr&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lfsiqueiras.lfsiqueiras&"  />
 </div>
 
 <h1 align="center">
@@ -133,20 +133,20 @@ Sistema de otimização nutricional para animais de estimação com algoritmos d
 ## 📊 **Estatísticas do GitHub**
 
 <div align="center">
-  <img width="390" height="195" src="https://github-readme-stats.vercel.app/api?username=ManabeJnchr&show_icons=true&theme=dark&border_color=61dafb&border_radius=10" alt="readme stats" />
-  <img width="350" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManabeJnchr&layout=compact&theme=dark&border_color=61dafb&border_radius=10" />
+  <img width="390" height="195" src="https://github-readme-stats.vercel.app/api?username=lfsiqueiras&show_icons=true&theme=dark&border_color=61dafb&border_radius=10" alt="readme stats" />
+  <img width="350" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfsiqueiras&layout=compact&theme=dark&border_color=61dafb&border_radius=10" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManabeJnchr&theme=dark&border_radius=10&border=61dafb" alt="readme streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lfsiqueiras&theme=dark&border_radius=10&border=61dafb" alt="readme streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManabeJnchr&theme=github-compact&bg_color=0d1117&border=61dafb&line=61dafb&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lfsiqueiras&theme=github-compact&bg_color=0d1117&border=61dafb&line=61dafb&point=ffffff" />
 </div>
 
 <br/>
@@ -183,7 +183,7 @@ Sistema de otimização nutricional para animais de estimação com algoritmos d
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/lucas-samuel-cardoso-galiano-2830a5231/" target="_blank">
+<a href="https://www.linkedin.com/in/lfsiqueira" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
