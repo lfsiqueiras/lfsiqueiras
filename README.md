@@ -1,21 +1,11 @@
-````markdown
+```markdown
 <div align="center">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=lfsiqueiras.lfsiqueiras&" />
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋+Eu+sou+Lucas!;Sempre+aprendendo+🚀;" />
-</h1>
+# Olá! 👋 Eu sou Lucas
 
-<p>
-  <a href="https://www.linkedin.com/in/lfsiqueira">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:lucasfelipeourisp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+aprendendo+🚀;" />
 
 </div>
 
@@ -23,49 +13,13 @@
 
 # 🙋‍♂️ Sobre mim
 
-```php
-<?php
+🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas**.
 
-$lfsiqueira = [
-    'formacao' => 'Tecnólogo em Análise e Desenvolvimento de Sistemas',
+💻 Tenho experiência no desenvolvimento de sistemas web, sistemas hospitalares e aplicações de gestão.
 
-    'interesses' => [
-        'Desenvolvimento Web',
-        'Sistemas de Gestão',
-        'APIs RESTful',
-        'Infraestrutura'
-    ],
+🚀 Atualmente estudo e desenvolvo projetos utilizando **Django**, **Laravel**, **TypeScript**, **Docker** e **Express.js**.
 
-    'stackPrincipal' => [
-        'Django',
-        'Laravel',
-        'PHP',
-        'TypeScript',
-        'Java'
-    ],
-
-    'estudando' => [
-        'Docker',
-        'Bootstrap',
-        'Express.js',
-        'Arquitetura de Software'
-    ],
-
-    'especialidades' => [
-        'Sistemas Hospitalares',
-        'Gestão Empresarial',
-        'Sistemas Acadêmicos'
-    ],
-
-    'hobbies' => [
-        '🎮 Jogos',
-        '💻 Programação',
-        '🎵 Música'
-    ],
-];
-
-?>
-````
+🎯 Tenho interesse em desenvolvimento back-end, APIs REST, bancos de dados, infraestrutura Linux e DevOps.
 
 ---
 
@@ -86,7 +40,7 @@ $lfsiqueira = [
 
 <br><br>
 
-## ⚡ Frameworks & Libraries
+## ⚡ Frameworks & Bibliotecas
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -97,7 +51,7 @@ $lfsiqueira = [
 
 <br><br>
 
-## 🗄️ Bancos de Dados
+## 🗄️ Banco de Dados
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
@@ -118,11 +72,11 @@ $lfsiqueira = [
 
 ## 🛠️ Ferramentas
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
 
@@ -134,15 +88,15 @@ $lfsiqueira = [
 
 ### 📚 Mentor Acadêmico *(Privado)*
 
-Sistema web para gerenciamento acadêmico desenvolvido em Laravel com autenticação personalizada, controle de usuários por perfis e gerenciamento de orientações.
+Sistema web para gerenciamento acadêmico com autenticação personalizada, gerenciamento de orientadores, alunos, cursos e períodos letivos.
 
-**Tecnologias:** Laravel • PHP • Bootstrap • Alpine.js • MySQL
+**Tecnologias:** Laravel • PHP • Bootstrap • Alpine.js
 
 ---
 
 ### 🍽️ Gestão Gourmet
 
-Sistema de gerenciamento para restaurantes com controle de pedidos, estoque, pagamentos, funcionários e relatórios.
+Sistema completo para gerenciamento de restaurantes com pedidos, mesas, estoque, caixa, pagamentos e relatórios.
 
 **Tecnologias:** TypeScript • Node.js • ApexCharts
 
@@ -150,7 +104,7 @@ Sistema de gerenciamento para restaurantes com controle de pedidos, estoque, pag
 
 ### ⚖️ Sistema Avaliativo
 
-Sistema para avaliação de setores hospitalares com controle de usuários, formulários, notas e relatórios.
+Sistema utilizado para avaliação de setores hospitalares com emissão de relatórios e gerenciamento de usuários.
 
 **Tecnologias:** Java • JSP • MySQL
 
@@ -158,25 +112,21 @@ Sistema para avaliação de setores hospitalares com controle de usuários, form
 
 ### 🐾 Pet Balance
 
-Sistema para otimização de dietas utilizando programação linear.
+Sistema para otimização nutricional utilizando programação linear.
 
 **Tecnologias:** Node.js • Express.js • Alpine.js • Bootstrap
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 📊 Estatísticas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lfsiqueiras&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lfsiqueiras&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=lfsiqueiras&theme=github-dark&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=lfsiqueiras&theme=github-dark&hide_border=true"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lfsiqueiras&theme=github-compact&hide_border=true"/>
 
@@ -186,9 +136,23 @@ Sistema para otimização de dietas utilizando programação linear.
 
 <div align="center">
 
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/lfsiqueira">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lucasfelipeourisp@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
 ### 💙 Obrigado pela visita!
 
-Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e compartilhar conhecimento.
+Sempre aberto a aprender novas tecnologias, colaborar em projetos e compartilhar conhecimento.
+
+⭐ Se algum projeto foi útil para você, considere deixar uma estrela.
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
