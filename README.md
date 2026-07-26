@@ -5,8 +5,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋+Eu+sou+Lucas!;Sempre+aprendendo+🚀;" />
 
-<h3 align="center">🚀 Apaixonado por tecnologia e sempre em busca de novos desafios!</h3>
-
 ## 🙋‍♂️ **Sobre mim**
 
 ```php
@@ -83,8 +81,6 @@
 
 </div>
 
-### 📋 **Detalhes dos Projetos**
-
 #### 📚 **Mentor Acadêmico** _(Repositório Privado - Em Desenvolvimento)_
 
 Sistema web para gestão acadêmica universitária com foco em orientação e mentoria.
@@ -131,8 +127,9 @@ Sistema de otimização nutricional para animais de estimação com algoritmos d
 <br/>
 
 <div align="center">
-  <img width="390" height="195" src="https://github-readme-stats.vercel.app/api?username=lfsiqueiras&show_icons=true&theme=dark&border_color=61dafb&border_radius=10" alt="readme stats" />
-  <img width="350" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfsiqueiras&layout=compact&theme=dark&border_color=61dafb&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfsiqueiras&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfsiqueiras&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 
 <br/>
