@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=lfsiqueiras.lfsiqueiras&" />
@@ -18,54 +17,6 @@
 </p>
 
 </div>
-
----
-
-# 🙋‍♂️ Sobre mim
-
-```php
-<?php
-
-$lfsiqueira = [
-    'formacao' => 'Tecnólogo em Análise e Desenvolvimento de Sistemas',
-
-    'interesses' => [
-        'Desenvolvimento Web',
-        'Sistemas de Gestão',
-        'APIs RESTful',
-        'Infraestrutura'
-    ],
-
-    'stackPrincipal' => [
-        'Django',
-        'Laravel',
-        'PHP',
-        'TypeScript',
-        'Java'
-    ],
-
-    'estudando' => [
-        'Docker',
-        'Bootstrap',
-        'Express.js',
-        'Arquitetura de Software'
-    ],
-
-    'especialidades' => [
-        'Sistemas Hospitalares',
-        'Gestão Empresarial',
-        'Sistemas Acadêmicos'
-    ],
-
-    'hobbies' => [
-        '🎮 Jogos',
-        '💻 Programação',
-        '🎵 Música'
-    ],
-];
-
-?>
-````
 
 ---
 
