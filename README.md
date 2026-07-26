@@ -11,7 +11,7 @@
 
 ```php
 <?php
-  $lucas = [
+  $lfsiqueira = [
       'formacao' => 'Análise e Desenvolvimento de Sistemas',
       'interesse' => ['Desenvolvimento Web', 'Sistemas de Gestão', 'APIs RESTful'],
       'focoPrincipal' => ['HTML', 'CSS', 'PHP', 'Laravel', 'Java', 'TypeScript'],
@@ -42,6 +42,7 @@
 ### ⚡ **Frameworks & Libraries**
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/JSP-FF6600?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -50,6 +51,7 @@
 ### 🗄️ **Bancos de Dados**
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ### 🛠️ **Ferramentas & Ambiente**
