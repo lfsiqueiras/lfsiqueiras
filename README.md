@@ -20,6 +20,16 @@
 ?>
 ```
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/lfsiqueira" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:lucasfelipeourisp@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <br/>
 
 ## 🔧 **Stack de Tecnologias**
@@ -133,18 +143,6 @@ Sistema de otimização nutricional para animais de estimação com algoritmos d
 </div>
 
 <br/>
-
-## 📞 **Contato**
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/lfsiqueira" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:lucasfelipeourisp@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 </div>
 
