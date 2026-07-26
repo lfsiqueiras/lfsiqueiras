@@ -126,12 +126,6 @@ Sistema de otimização nutricional para animais de estimação com algoritmos d
 
 <br/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfsiqueiras&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfsiqueiras&layout=compact&langs_count=8&theme=github_dark"/>
-</div>
-
 <br/>
 
 <div align="center">
