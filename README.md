@@ -6,16 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋+Eu+sou+Lucas!;Sempre+aprendendo+🚀;" />
 </h1>
 
-<p>
-  <a href="https://www.linkedin.com/in/lfsiqueira">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:lucasfelipeourisp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 </div>
 
 ---
@@ -141,7 +131,15 @@ Sistema para otimização de dietas utilizando programação linear.
 
 Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e compartilhar conhecimento.
 
-⭐ Se algum projeto foi útil para você, deixe uma estrela!
+<p>
+  <a href="https://www.linkedin.com/in/lfsiqueira">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:lucasfelipeourisp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
