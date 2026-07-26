@@ -81,10 +81,6 @@
 
 <div align="center">
 
-<a href="https://github.com/lfsiqueiras/Gestao_Gourmet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lfsiqueiras&repo=Gestao_Gourmet&theme=dark&border_color=61dafb&border_radius=10" />
-</a>
-
 </div>
 
 ### 📋 **Detalhes dos Projetos**
