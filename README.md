@@ -21,6 +21,54 @@
 
 ---
 
+# 🙋‍♂️ Sobre mim
+
+```php
+<?php
+
+$lfsiqueira = [
+    'formacao' => 'Tecnólogo em Análise e Desenvolvimento de Sistemas',
+
+    'interesses' => [
+        'Desenvolvimento Web',
+        'Sistemas de Gestão',
+        'APIs RESTful',
+        'Infraestrutura'
+    ],
+
+    'stackPrincipal' => [
+        'Django',
+        'Laravel',
+        'PHP',
+        'TypeScript',
+        'Java'
+    ],
+
+    'estudando' => [
+        'Docker',
+        'Bootstrap',
+        'Express.js',
+        'Arquitetura de Software'
+    ],
+
+    'especialidades' => [
+        'Sistemas Hospitalares',
+        'Gestão Empresarial',
+        'Sistemas Acadêmicos'
+    ],
+
+    'hobbies' => [
+        '🎮 Jogos',
+        '💻 Programação',
+        '🎵 Música'
+    ],
+];
+
+?>
+````
+
+---
+
 # 🔧 Stack de Tecnologias
 
 <div align="center">
@@ -141,6 +189,8 @@ Sistema para otimização de dietas utilizando programação linear.
 ### 💙 Obrigado pela visita!
 
 Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e compartilhar conhecimento.
+
+⭐ Se algum projeto foi útil para você, deixe uma estrela!
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
