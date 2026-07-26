@@ -5,6 +5,16 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋+Eu+sou+Lucas!;Sempre+aprendendo+🚀;" />
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/lfsiqueira" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:lucasfelipeourisp@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 ## 🙋‍♂️ **Sobre mim**
 
 ```php
@@ -19,16 +29,6 @@
   ];
 ?>
 ```
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/lfsiqueira" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:lucasfelipeourisp@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 <br/>
 
